@@ -13,7 +13,7 @@ class App extends StatelessWidget {
     return MaterialApp(
       title: "Primeiro App Flutter Rachid",
       // home, seria a página principal do aplicativo.
-      home: Home(),
+      home: const Home(),
       color: Colors.blue,
     );
   }
